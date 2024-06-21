@@ -1,2 +1,2 @@
-# Machine Learning _project
+# Machine Learning project
 
